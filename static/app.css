@@ -1,0 +1,27 @@
+.comments-section {
+	margin-top: 15px;
+	list-style: none;
+	padding: 15px;
+	background-color: rgb(233, 236, 239);
+}
+
+
+.comment {
+	border: 1px solid rgba(100,100,100,0.1);
+	background-color: rgba(0,123,255, 0.33);
+	padding: 5px 10px;
+}
+
+.comment-actions {
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.comment-actions button {
+	margin-left: 5px;
+}
+
+.reply {
+	margin-left: 20px;
+}
